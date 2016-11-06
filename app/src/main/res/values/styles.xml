@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/ff_statusbar</item>
+        <item name="colorPrimaryDark">@color/ff_statusbar</item>
+        <item name="colorControlNormal">@color/ff_color_control_normal</item>
+        <item name="colorAccent">@color/ff_color_control_normal</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>

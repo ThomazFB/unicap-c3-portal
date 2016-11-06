@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/drawer_row_layout"
+                android:layout_width="match_parent"
+                android:layout_height="65dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:orientation="horizontal">
+
+    <View
+        android:id="@+id/drawer_row_line_divisor"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/drawer_row_line_divisor_height"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/darker_gray"
+        android:visibility="invisible"/>
+
+    <ImageView
+        android:id="@+id/drawer_row_icon"
+        android:layout_width="@dimen/drawer_row_icon_diameter"
+        android:layout_height="@dimen/drawer_row_icon_diameter"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/drawer_row_component_margin"/>
+
+    <TextView
+        android:id="@+id/drawer_row_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/drawer_row_component_margin"
+        android:layout_toEndOf="@id/drawer_row_icon"
+        android:textSize="@dimen/drawer_row_text_size"
+        android:textStyle="bold"/>
+
+</RelativeLayout>

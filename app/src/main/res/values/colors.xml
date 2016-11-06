@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ff_toolbar">#2A76B7</color>
+    <color name="ff_statusbar">#24659B</color>
+    <color name="ff_color_control_normal">#FFFFFF</color>
+
+    <color name="ff_smoke_screen_color">#55000000</color>
+
+    <color name="login_activity_bg">#2A76B7</color>
+    <color name="login_activity_btn">#FFFFFF</color>
+    <color name="login_activity_label">#74A7D0</color>
+
+</resources>

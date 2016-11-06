@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Portal C3</string>
+
+    <!-- Application -->
+    <string name="article">Postagens</string>
+    <string name="teachers">Professores</string>
+    <string name="disciplines">Disciplinas</string>
+    <string name="event">Eventos</string>
+    <string name="opportunity">Oportunidades</string>
+    <string name="contact">Contato</string>
+    <string name="about">Sobre</string>
+
+    <!-- HomeActivity -->
+    <string name="open_drawer_text">Open</string>
+    <string name="close_drawer_text">Close</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialog_loading_message">Loading&#8230;</string>
+    <string name="dialog_accept_text">OK</string>
+
+    <!-- Dialog Errors -->
+    <string name="network_error_text">Ocorreu um erro com a rede, favor verificar sua conexão.</string>
+    <string name="operation_error_text">Operation error</string>
+    <string name="login_error_text">Login error</string>
+    <string name="password_error_text">Passwords don\'t match</string>
+</resources>
