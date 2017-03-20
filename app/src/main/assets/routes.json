@@ -1,7 +1,7 @@
 {
-  "postsRoute" : "http://sm.c3.unicap.br/portalC3/api/posts",
-  "eventsRoute" : "http://sm.c3.unicap.br/portalC3/api/eventos",
-  "disciplinesRoute" : "http://sm.c3.unicap.br/portalC3/api/disciplinas",
-  "opportunityRoute" : "http://sm.c3.unicap.br/portalC3/api/oportunidades",
-  "teachersRoute" : "http://sm.c3.unicap.br/portalC3/api/professores"
+  "postsRoute" : "not available",
+  "eventsRoute" : "not available",
+  "disciplinesRoute" : "not available",
+  "opportunityRoute" : "not available",
+  "teachersRoute" : "not available"
 }
